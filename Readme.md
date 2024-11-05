@@ -3,6 +3,8 @@
 A comprehensive Formula 1 data analysis platform leveraging real-time telemetry data to provide deep insights into race performance, driver comparisons, and technical analysis.
 
 ![F1 Dashboard](assets/f1_logo.png)
+![Dash](assets/dash1.png)
+![Dash](assets/dash2.png)
 
 ## 📊 Features
 
